@@ -18,7 +18,12 @@
                url-prefix(https://books.google),
                url-prefix(https://209.85.165.104),
                url-prefix(https://translate.google),
-               url-prefix(https://video.google)
+               url-prefix(https://video.google),
+               url-prefix(https://www.google.com/_/chrome*),
+               url-prefix(http://www.google.com/_/chrome*),
+               url-prefix(https://www.google.ca/_/chrome*),
+               url-prefix(http://www.google.ca/_/chrome*),
+               url-prefix(http*://www.google.*/_/chrome*)
 {
 
 img#hplogo {
