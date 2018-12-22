@@ -1,10 +1,12 @@
 // ==UserScript==
-// @name          Google Hestia (anime) version
+// @name          Google Hestia (anime) version 3.6
 // @icon          https://raw.githubusercontent.com/tangxiadi/Google-Hestia-Anime/master/Anime/icon2.0.png
-// @description	  Hestia Dance on Google search engine
-// @namespace     https://github.com/tangxiadi/Google-Hestia-Anime
+// @description	  Hestia Dance on Google search engine 
+// @namespace     https://github.com/cracksoft/Google-Hestia-Anime
 // @author        tangxiadi
+// @editor	  cracksoft
 // @homepage      http://tangxiadi.cn
+// @homepage      https://www.facebook.com/AnonQC.Yuuki
 // @include       http://www.google*
 // @include       http://images.google*
 // @include       http://news.google*
@@ -24,11 +26,16 @@
 // @include       https://209.85.165.104*
 // @include       https://translate.google*
 // @include       https://video.google*
+// @include       https://www.google.com/_/chrome*
+// @include       http://www.google.com/_/chrome*
+// @include       https://www.google.ca/_/chrome*
+// @include       http://www.google.ca/_/chrome*
+// @include       http*://www.google.*/_/chrome*
 // @grant         unsafeWindow
 // @grant         GM_xmlhttpRequest
 // @run-at        document-start
-// @version       3.5.5
-// @date          2015-05-25
+// @version       3.6
+// @date          2018-12-22
 // @license       http://creativecommons.org/licenses/by-nc-sa/3.0/
 // ==/UserScript==
 
